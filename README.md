@@ -1,5 +1,5 @@
 # pySci-Calculator
-Scientific Calculator For Windows Only
+Scientific Calculator For Windows Only. 
 Note: All Imports Are Up-To-Date As Of The Date Listed Below.
 pySci-Calculator Version 2.4 / 10/28/2023, Python Scientific Calculator For Windows, 
 Python Version: 3.12,0 All Math Parsing via sympy 1.12, Tkinter Version 8.6 Backend
