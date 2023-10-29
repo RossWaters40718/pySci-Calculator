@@ -13,5 +13,5 @@ Right-Click the button and a Tool-Tip should appear and give a little guidance. 
 the Display and a menu of the Calculator Setup will appear. All of these setups
 are stored in an .ini file and setup the Calculator each time it is ran. 
 
-Note: tkfontchooser import Code Was Modified Due To Depreciation Warnings Correction For Python 3.12
+Note: tkfontchooser import Code Was Modified Due To Depreciation Warnings Correction For Python 3.12.
 These Corrections Involved Changes To .replace("\ ") To .replace(r"\ ")
