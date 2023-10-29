@@ -2,7 +2,7 @@
 Scientific Calculator For Windows Only. 
 Note: All Imports Are Up-To-Date As Of The Date Listed Below.
 pySci-Calculator Version 2.4 / 10/28/2023, Python Scientific Calculator For Windows, 
-Python Version: 3.12,0 All Math Parsing via sympy 1.12, Tkinter Version 8.6 Backend
+Python Version: 3.12.0. All Math Parsing via sympy 1.12, Tkinter Version 8.6 Backend
 
 This is a scientific Calculator with a built-in Ratio/Porportion Calculator. 
 The Display Properties (Font, Backcolor, Forecolor) can be customized and are memorized. 
