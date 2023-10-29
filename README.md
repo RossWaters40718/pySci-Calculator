@@ -1,8 +1,8 @@
 # pySci-Calculator
 Scientific Calculator For Windows Only
 Note: All Imports Are Up-To-Date As Of The Date Listed Below.
-pySci-Calculator Version 2.3.0 / 05/08/2023, Python Scientific Calculator For Windows, 
-Python Version: 3.11.2, All Math Parsing via sympy 1.11.1, Tkinter Version 8.6 Backend
+pySci-Calculator Version 2.4 / 10/28/2023, Python Scientific Calculator For Windows, 
+Python Version: 3.12,0 All Math Parsing via sympy 1.12, Tkinter Version 8.6 Backend
 
 This is a scientific Calculator with a built-in Ratio/Porportion Calculator. 
 The Display Properties (Font, Backcolor, Forecolor) can be customized and are memorized. 
@@ -13,5 +13,5 @@ Right-Click the button and a Tool-Tip should appear and give a little guidance. 
 the Display and a menu of the Calculator Setup will appear. All of these setups
 are stored in an .ini file and setup the Calculator each time it is ran. 
 
-if you or anyone encounters any problems, please let me know via email. 
-You can find my email address by right-clicking the display and selecting 'About'. 
+Note: tkfontchooser import Code Was Modified Due To Depreciation Warnings Correction For Python 3.12
+These Corrections Involved Changes To .replace("\ ") To .replace(r"\ ")
